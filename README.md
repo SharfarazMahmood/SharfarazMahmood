@@ -1,25 +1,5 @@
-<h1 >Hi 👋, I'm Sharfarz Mahmood</h1>
+<h1 >Hi 👋, I'm Sharfaraz Mahmood</h1>
 <h3 >A passionate software engineer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharfarazmahmood&label=Profile%20views&color=0798f2&style=flat" alt="sharfarazmahmood" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharfarazmahmood&theme=onedark" alt="sharfarazmahmood" /></a> </p>
-<!-- 
-<p align="left"> <a href="https://twitter.com/sm_jamee" target="blank"><img src="https://img.shields.io/twitter/follow/sm_jamee?logo=twitter&style=for-the-badge" alt="sm_jamee" /></a> </p> -->
-
-[![Twitter Badge](https://img.shields.io/badge/-@sm_jamee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/sm_jamee) 
-
-- 💬 Ask me about **flutter**
-
-- 📫 How to reach me **sharfarazmahmood@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/sharfaraz mahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharfaraz mahmood" height="30" width="40" /></a>
-<a href="https://fb.com/sharfaraz mahmood jamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharfaraz mahmood jamee" height="30" width="40" /></a>
-<a href="https://instagram.com/sharfarazmahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharfarazmahmood" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -47,6 +27,24 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
+
+- 💬 Ask me about **flutter**
+
+- 📫 How to reach me **sharfarazmahmood@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<!-- <p align="left"> <a href="https://twitter.com/sm_jamee" target="blank"><img src="https://img.shields.io/twitter/follow/sm_jamee?logo=twitter&style=for-the-badge" alt="sm_jamee" /></a> </p> -->
+
+[![Twitter Badge](https://img.shields.io/badge/-@sm_jamee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/sm_jamee) 
+ 
+<a href="https://linkedin.com/in/sharfaraz mahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharfaraz mahmood" height="30" width="40" /></a>
+<a href="https://fb.com/sharfaraz mahmood jamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharfaraz mahmood jamee" height="30" width="40" /></a>
+<a href="https://instagram.com/sharfarazmahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharfarazmahmood" height="30" width="40" /></a>
+</p>
+
+
 ---
 <br />
 
@@ -64,11 +62,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharfarazmahmood&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="sharfarazmahmood" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharfarazmahmood&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="sharfarazmahmood" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharfarazmahmood&show_icons=true&theme=darcula&text_color=ffffff&locale=en" alt="sharfarazmahmood" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharfarazmahmood&theme=dark" alt="sharfarazmahmood" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharfarazmahmood&theme=dark" alt="sharfarazmahmood" /></p> 
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharfarazmahmood&theme=onedark" alt="sharfarazmahmood" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharfarazmahmood&label=Profile%20views&color=0798f2&style=flat" alt="sharfarazmahmood" /> </p>
 <br />
 <br />
 
