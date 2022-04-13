@@ -70,9 +70,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharfarazmahmood&show_icons=true&theme=darcula&text_color=ffffff&locale=en" alt="sharfarazmahmood" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharfarazmahmood&theme=dark" alt="sharfarazmahmood" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharfarazmahmood&theme=dark" alt="sharfarazmahmood" /></p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharfarazmahmood&theme=onedark" alt="sharfarazmahmood" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharfarazmahmood&theme=onedark" alt="sharfarazmahmood" /></a> </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharfarazmahmood&label=Profile%20views&color=0798f2&style=flat" alt="sharfarazmahmood" /> </p>
 <br />
 <br />
